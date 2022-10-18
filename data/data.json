@@ -1,0 +1,72 @@
+[
+    {
+        "tipo": "Riego por aspercion",
+        "factor": 2.20, 
+        "dato": "datosTipo"
+    },
+
+    {
+        "tipo": "Riego por goteo",
+        "factor": 1.60, 
+        "dato": "datosTipo"
+    },
+
+    {
+        "tipo": "Riego subterraneo",
+        "factor": 2.80, 
+        "dato": "datosTipo"
+    },
+
+
+
+    {
+        "tipo": "Riego para cesped",
+        "factor": 1.80, 
+        "dato": "datosAplicacion"
+    },
+
+    {
+        "tipo": "Riego para huertas",
+        "factor": 1.35, 
+        "dato": "datosAplicacion"
+    },
+
+    {
+        "tipo": "Riego para canteros",
+        "factor": 1.45, 
+        "dato": "datosAplicacion"
+    },
+
+
+    
+    
+    {
+        "tipo": "CABA",
+        "factor": 1.70,
+        "dato": "datosZona"
+    },
+
+    {
+        "tipo": "Zona norte",
+        "factor": 1.00,
+        "dato": "datosZona"
+    },
+
+    {
+        "tipo": "Zona este",
+        "factor": 1.90,
+        "dato": "datosZona"
+    },
+
+    {
+        "tipo": "Zona oeste",
+        "factor": 1.90,
+        "dato": "datosZona"
+    },
+
+    {
+        "tipo": "Zona sur",
+        "factor": 2.40,
+        "dato": "datosZona"
+    }
+]
